@@ -5,23 +5,23 @@
 
 <!-- DYNAMIC TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Building+modern+web+architectures;Crafting+robust+Docker+environments;Lua+scripting+%26+game+systems;Turning+caffeine+into+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Building+modern+web+architectures;Crafting+robust+Docker+environments;Lua+scripting+%26+game+systems;Turning+caffeine+into+clean+code" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- MINIMAL STATUS PILLS -->
+<!-- HIGH CONTRAST PILLS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-High--Performance%20Backends-000000?style=for-the-badge&logoColor=white&color=0d1117" />
-  <img src="https://img.shields.io/badge/HomeLab-Self--Hosted%20Bare%20Metal-000000?style=for-the-badge&logoColor=white&color=0d1117" />
-  <img src="https://img.shields.io/badge/Location-Zürich%2C%20CH-000000?style=for-the-badge&logoColor=white&color=0d1117" />
+  <img src="https://img.shields.io/badge/Focus-High--Performance%20Backends-00F0FF?style=for-the-badge&logoColor=000&labelColor=000000" />
+  <img src="https://img.shields.io/badge/HomeLab-Self--Hosted%20Bare%20Metal-FF0055?style=for-the-badge&logoColor=fff&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Location-Zürich%2C%20CH-39FF14?style=for-the-badge&logoColor=000&labelColor=000000" />
 </p>
 
 </div>
 
 ---
 
-### ⚡ Arsenal & Ecosystem
+### ⚡ Arsenal & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,ts,js,prisma,mysql,lua,docker,linux,git,github,vscode,figma&perline=6&theme=dark" />
@@ -29,18 +29,26 @@
 
 ---
 
+### 🏆 Achievement Showcase
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sorry4Nothing&theme=matrix&no-frame=true&no-bg=true&margin_w=10" width="100%" alt="GitHub Trophies" />
+</div>
+
+---
+
 ### 📊 System Telemetry & Insights
 
 <div align="center">
 
-<!-- COMPACT ANIMATED METRICS -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sorry4Nothing&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff003c&text_color=e0e0e0&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sorry4Nothing&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=e0e0e0" width="48%" />
+<!-- MAIN STATS (High-Contrast Cyberpunk Neon) -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sorry4Nothing&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=FF0055&text_color=FFFFFF&count_private=true" width="49%" alt="Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sorry4Nothing&layout=compact&theme=cyberpunk&hide_border=true&bg_color=00000000&title_color=00F0FF&text_color=FFFFFF" width="47%" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<!-- STREAK TRACKER -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sorry4Nothing&theme=cyberpunk&hide_border=true&background=0d1117&ring=00f0ff&fire=ff003c&currStreakLabel=00f0ff" width="97%" />
+<!-- HIGH-CONTRAST STREAK STATS -->
+<img src="https://streak-stats.demolab.com/?user=Sorry4Nothing&theme=dark&hide_border=true&background=00000000&ring=00F0FF&fire=FF0055&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00F0FF&dates=708090" width="98%" alt="GitHub Streak" />
 
 </div>
 
@@ -48,17 +56,15 @@
 
 ### 🐍 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sorry4Nothing/Sorry4Nothing/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sorry4Nothing/Sorry4Nothing/output/github-contribution-grid-snake.svg">
+<div align="center">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sorry4Nothing/Sorry4Nothing/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+</div>
 
 ---
 
 <div align="center">
 
-<!-- BOTTOM WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=100&section=footer" width="100%" />
+<!-- MATCHING BOTTOM WAVE (Same gradient as Top Header) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=110&section=footer" width="100%" />
 
 </div>
