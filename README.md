@@ -1,66 +1,64 @@
 <div align="center">
 
-# Hi, ich bin Sorry4Nothing 👋
-### Application Developer & Self-Hosting Enthusiast 🚀
+<!-- ANIMATED HEADER / CAPSULE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Robin%20Lehmann&fontSize=52&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Engineer%20•%20Infrastructure%20•%20Builder&descAlignY=58&descAlign=50" width="100%" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DEIN_GITHUB_USERNAME)
-[![Status](https://img.shields.io/badge/Status-Building%20Cool%20Stuff-brightgreen?style=flat-square)](#)
-[![Location](https://img.shields.io/badge/Based%20in-Zürich%2C%20CH-red?style=flat-square&logo=google-maps&logoColor=white)](#)
+<!-- DYNAMIC TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Building+modern+web+architectures;Crafting+robust+Docker+environments;Lua+scripting+%26+game+systems;Turning+caffeine+into+clean+code" alt="Typing SVG" />
+</a>
 
+<br/>
+
+<!-- MINIMAL STATUS PILLS -->
 <p align="center">
-  <em>Leidenschaft für Webentwicklung, robuste Backends, modulare Systeme und dedizierte Home-Server-Infrastruktur.</em>
+  <img src="https://img.shields.io/badge/Focus-High--Performance%20Backends-000000?style=for-the-badge&logoColor=white&color=0d1117" />
+  <img src="https://img.shields.io/badge/HomeLab-Self--Hosted%20Bare%20Metal-000000?style=for-the-badge&logoColor=white&color=0d1117" />
+  <img src="https://img.shields.io/badge/Location-Zürich%2C%20CH-000000?style=for-the-badge&logoColor=white&color=0d1117" />
 </p>
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Werkzeuge
+### ⚡ Arsenal & Ecosystem
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,prisma,mysql,lua,docker,linux,git,github,vscode,figma&perline=6&theme=dark" />
+</p>
+
+---
+
+### 📊 System Telemetry & Insights
 
 <div align="center">
 
-#### Backend & Web
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+<!-- COMPACT ANIMATED METRICS -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sorry4Nothing&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff003c&text_color=e0e0e0&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sorry4Nothing&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=e0e0e0" width="48%" />
 
-#### Infra, Cloud & Self-Hosting
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br/>
+
+<!-- STREAK TRACKER -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sorry4Nothing&theme=cyberpunk&hide_border=true&background=0d1117&ring=00f0ff&fire=ff003c&currStreakLabel=00f0ff" width="97%" />
 
 </div>
 
 ---
 
-### 🔭 Aktuelle Schwerpunkte & Projekte
+### 🐍 Contribution Activity
 
-- 🌐 **Web Apps & Services:** Full-Stack-Lösungen mit Node.js, Prisma ORM und Cloud-Databases.
-- 🖥️ **Home Server & DevOps:** Containerisierte Services auf eigenem Bare-Metal-Server (Docker, Portainer, Reverse Proxies).
-- 🎮 **Game Scripting & Modding:** Systemarchitektur und Logik-Skripting in Lua.
-- ⚙️ **Automatisierung:** Optimierung von Workflows, APIs und Entwicklertools.
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sorry4Nothing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Robin's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sorry4Nothing&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sorry4Nothing&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sorry4Nothing/Sorry4Nothing/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sorry4Nothing/Sorry4Nothing/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sorry4Nothing/Sorry4Nothing/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 ---
 
 <div align="center">
-  <sub>Erstellt mit Leidenschaft für sauberen Code & stabile Infrastruktur.</sub>
+
+<!-- BOTTOM WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=100&section=footer" width="100%" />
+
 </div>
