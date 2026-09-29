@@ -50,12 +50,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DEIN_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Robin's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sorry4Nothing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Robin's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sorry4Nothing&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sorry4Nothing&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
