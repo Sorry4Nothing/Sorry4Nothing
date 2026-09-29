@@ -39,7 +39,7 @@
 <br/><br/>
 
 <!-- HIGH-CONTRAST STREAK STATS -->
-<img src="https://streak-stats.demolab.com/?user=Sorry4Nothing&theme=dark&hide_border=true&background=0d1117&ring=00F0FF&fire=FF0055&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00F0FF&dates=8b949e" width="100%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Sorry4Nothing&theme=dark&hide_border=true&background=0d1117&ring=00F0FF&fire=FF0055&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00F0FF&dates=8b949e&v2" width="100%" alt="GitHub Streak" />
 
 </div>
 
