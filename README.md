@@ -29,26 +29,17 @@
 
 ---
 
-### 🏆 Achievement Showcase
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sorry4Nothing&theme=matrix&no-frame=true&no-bg=true&margin_w=10" width="100%" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 📊 System Telemetry & Insights
 
 <div align="center">
 
-<!-- MAIN STATS (High-Contrast Cyberpunk Neon) -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sorry4Nothing&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=FF0055&text_color=FFFFFF&count_private=true" width="49%" alt="Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sorry4Nothing&layout=compact&theme=cyberpunk&hide_border=true&bg_color=00000000&title_color=00F0FF&text_color=FFFFFF" width="47%" alt="Top Languages" />
+<!-- RELIABLE ACTIVITY GRAPH (Cyberpunk Neon Glow) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sorry4Nothing&theme=react-dark&bg_color=0d1117&color=00F0FF&line=FF0055&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Commit Activity" />
 
 <br/><br/>
 
 <!-- HIGH-CONTRAST STREAK STATS -->
-<img src="https://streak-stats.demolab.com/?user=Sorry4Nothing&theme=dark&hide_border=true&background=00000000&ring=00F0FF&fire=FF0055&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00F0FF&dates=708090" width="98%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Sorry4Nothing&theme=dark&hide_border=true&background=0d1117&ring=00F0FF&fire=FF0055&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00F0FF&dates=8b949e" width="100%" alt="GitHub Streak" />
 
 </div>
 
@@ -64,7 +55,7 @@
 
 <div align="center">
 
-<!-- MATCHING BOTTOM WAVE (Same gradient as Top Header) -->
+<!-- MATCHING BOTTOM WAVE (Identical gradient to Top Header) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=110&section=footer" width="100%" />
 
 </div>
