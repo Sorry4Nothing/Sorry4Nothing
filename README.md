@@ -29,17 +29,20 @@
 
 ---
 
+### 🏆 Hall of Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sorry4Nothing&theme=juicyfresh&no-frame=true&no-bg=true&margin_w=12&row=1&column=6" width="100%" alt="GitHub Profile Trophies" />
+</div>
+
+---
+
 ### 📊 System Telemetry & Insights
 
 <div align="center">
 
-<!-- RELIABLE ACTIVITY GRAPH (Cyberpunk Neon Glow) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sorry4Nothing&theme=react-dark&bg_color=0d1117&color=00F0FF&line=FF0055&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Commit Activity" />
-
-<br/><br/>
-
-<!-- HIGH-CONTRAST STREAK STATS -->
-<img src="https://streak-stats.demolab.com/?user=Sorry4Nothing&theme=dark&hide_border=true&background=0d1117&ring=00F0FF&fire=FF0055&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00F0FF&dates=8b949e&v2" width="100%" alt="GitHub Streak" />
+<!-- STREAK TRACKER (Ausfallsicherer demolab-Cluster) -->
+<img src="https://streak-stats.demolab.com/?user=Sorry4Nothing&theme=dark&hide_border=true&background=0d1117&ring=00F0FF&fire=FF0055&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00F0FF&dates=8b949e&t=2026" width="100%" alt="GitHub Streak" />
 
 </div>
 
@@ -55,7 +58,7 @@
 
 <div align="center">
 
-<!-- MATCHING BOTTOM WAVE (Identical gradient to Top Header) -->
+<!-- MATCHING BOTTOM WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=110&section=footer" width="100%" />
 
 </div>
