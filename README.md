@@ -7,7 +7,7 @@
 
 <!-- DYNAMIC TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=800&color=00F0FF&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Building+distributed+web+architectures;Managing+self-hosted+bare-metal+clusters;Low-level+game+runtime+scripting;Automating+complex+deployment+pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=800&color=00F0FF&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Building+distributed+web+architectures;Managing+self-hosted+bare-metal+clusters;Low-level+game+runtime+scripting;Shipping+native+iOS+%26+Android+apps;Automating+complex+deployment+pipelines" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,15 +22,25 @@
 <br/>
 
 <!-- SYSTEM SPECS TERMINAL (Statt Tabelle) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&color=00F0FF&background=0d1117&center=false&vCenter=true&multiline=true&width=780&height=180&lines=%24+neofetch+--stdout;HOST%3A+Bare-Metal+Private+Cluster+%7C+Mini-ITX+Node;OS%3A+Linux+x86_64+%7C+Containerized+Ecosystem;SERVICES%3A+Docker+%E2%80%A2+Portainer+%E2%80%A2+Reverse+Proxy+%E2%80%A2+Storage;DATABASE%3A+Prisma+ORM+%E2%80%A2+MySQL+%E2%80%A2+TiDB;STACK%3A+NodeJS+%E2%80%A2+TypeScript+%E2%80%A2+Lua;STATUS%3A+All+Daemons+Operational+%5BOK%5D" width="95%" alt="Terminal Specs" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&color=00F0FF&background=0d1117&center=false&vCenter=true&multiline=true&width=780&height=180&lines=%24+neofetch+--stdout;HOST%3A+Bare-Metal+Private+Cluster+%7C+Mini-ITX+Node;OS%3A+Linux+x86_64+%7C+Containerized+Ecosystem;SERVICES%3A+Docker+%E2%80%A2+Portainer+%E2%80%A2+Reverse+Proxy+%E2%80%A2+Storage;DATABASE%3A+PostgreSQL+%E2%80%A2+Prisma+ORM+%E2%80%A2+MySQL+%E2%80%A2+TiDB;STACK%3A+NodeJS+%E2%80%A2+TypeScript+%E2%80%A2+Kotlin+%E2%80%A2+Swift+%E2%80%A2+Lua;STATUS%3A+All+Daemons+Operational+%5BOK%5D" width="95%" alt="Terminal Specs" />
 
 <br/><br/>
 
 <h3>TECH STACK & TOOLING</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,prisma,mysql,lua,docker,linux,git,github,vscode,figma,postman,bash&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,kotlin,swift,androidstudio,prisma,postgres,mysql,lua,docker,linux,git,github,vscode,figma,postman,bash&perline=9&theme=dark" />
 </p>
+
+<br/><br/>
+
+<h3>RECENT WORK</h3>
+
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| [**Cevi OS**](https://github.com/Sorry4Nothing/cevi-os) | App for a Cevi branch: calendar programs, yes/no sign-up per child, parent–leader chat. Backend plus [iOS](https://github.com/Sorry4Nothing/cevi-os-ios) and [Android](https://github.com/Sorry4Nothing/cevi-os-android) (pilot 0.9.0) apps | Hono, PostgreSQL, SwiftUI, Jetpack Compose |
+| [**FireResponse**](https://github.com/Sorry4Nothing/fireresponse-api) | App for youth fire brigades in canton Zürich: exercises from Lodur, sign-up, push. [API + admin panel](https://github.com/Sorry4Nothing/fireresponse-api) and [Android app](https://github.com/Sorry4Nothing/fireresponse-android) | TypeScript, Kotlin, Jetpack Compose |
+| [**Kurstracker**](https://github.com/Sorry4Nothing/kurstracker) | Training and course planning for Cevi leaders: course tree, group planner, four themes, WCAG 2.1 AA | JavaScript |
 
 <br/><br/>
 
