@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="230" viewBox="0 0 400 230" role="img" aria-label="Kurstracker">
+<title>Kurstracker</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#39FF14" stop-opacity="0.14"/><stop offset="0.6" stop-color="#0d1117" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="398" height="228" rx="12" fill="#0d1117" stroke="#39FF14" stroke-opacity="0.45" stroke-width="2"/>
+<rect x="1" y="1" width="398" height="228" rx="12" fill="url(#g)"/>
+<rect x="1" y="26" width="5" height="46" rx="2.5" fill="#39FF14"/>
+<text x="24" y="38" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" font-weight="600" letter-spacing="2" fill="#39FF14">WEB APP</text>
+<text x="24" y="68" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="26" font-weight="700" fill="#FFFFFF">Kurstracker</text>
+<text x="24" y="104" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="13" fill="#c9d1d9">Training and course planning for</text>
+<text x="24" y="125" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="13" fill="#c9d1d9">Cevi leaders: course tree, group</text>
+<text x="24" y="146" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="13" fill="#c9d1d9">planner, four themes, WCAG 2.1 AA.</text>
+<rect x="24.0" y="170" width="86.0" height="22" rx="11" fill="#39FF14" fill-opacity="0.12" stroke="#39FF14" stroke-opacity="0.6"/>
+<text x="67.0" y="185" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#39FF14">JavaScript</text>
+<circle cx="31" cy="212" r="4" fill="#39FF14"/>
+<text x="42" y="216" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#8b949e">Preparation mode</text>
+</svg>

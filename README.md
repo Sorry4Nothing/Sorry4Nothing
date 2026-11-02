@@ -36,11 +36,22 @@
 
 <h3>RECENT WORK</h3>
 
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| [**Cevi OS**](https://github.com/Sorry4Nothing/cevi-os) | App for a Cevi branch: calendar programs, yes/no sign-up per child, parent–leader chat. Backend plus [iOS](https://github.com/Sorry4Nothing/cevi-os-ios) and [Android](https://github.com/Sorry4Nothing/cevi-os-android) (pilot 0.9.0) apps | Hono, PostgreSQL, SwiftUI, Jetpack Compose |
-| [**FireResponse**](https://github.com/Sorry4Nothing/fireresponse-api) | App for youth fire brigades in canton Zürich: exercises from Lodur, sign-up, push. [API + admin panel](https://github.com/Sorry4Nothing/fireresponse-api) and [Android app](https://github.com/Sorry4Nothing/fireresponse-android) | TypeScript, Kotlin, Jetpack Compose |
-| [**Kurstracker**](https://github.com/Sorry4Nothing/kurstracker) | Training and course planning for Cevi leaders: course tree, group planner, four themes, WCAG 2.1 AA | JavaScript |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Sorry4Nothing/cevi-os"><img src="assets/card-cevi-os.svg" alt="cevi-os" width="100%" /></a><br/>
+      <sub><a href="https://github.com/Sorry4Nothing/cevi-os">API</a> · <a href="https://github.com/Sorry4Nothing/cevi-os-ios">iOS</a> · <a href="https://github.com/Sorry4Nothing/cevi-os-android">Android</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Sorry4Nothing/fireresponse-api"><img src="assets/card-fireresponse.svg" alt="fireresponse" width="100%" /></a><br/>
+      <sub><a href="https://github.com/Sorry4Nothing/fireresponse-api">API</a> · <a href="https://github.com/Sorry4Nothing/fireresponse-android">Android</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Sorry4Nothing/kurstracker"><img src="assets/card-kurstracker.svg" alt="kurstracker" width="100%" /></a><br/>
+      <sub><a href="https://github.com/Sorry4Nothing/kurstracker">Code</a></sub>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
