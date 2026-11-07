@@ -44,7 +44,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Sorry4Nothing/fireresponse-api"><img src="assets/card-fireresponse.svg" alt="fireresponse" width="100%" /></a><br/>
-      <sub><a href="https://github.com/Sorry4Nothing/fireresponse-api">API</a> · <a href="https://github.com/Sorry4Nothing/fireresponse-android">Android</a></sub>
+      <sub><a href="https://github.com/Sorry4Nothing/fireresponse-api">API</a> · <a href="https://github.com/Sorry4Nothing/fireresponse-android">Android</a> · <a href="https://github.com/Sorry4Nothing/fireresponse-ios">iOS</a></sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Sorry4Nothing/kurstracker"><img src="assets/card-kurstracker.svg" alt="kurstracker" width="100%" /></a><br/>
