@@ -36,22 +36,19 @@
 
 <h3>RECENT WORK</h3>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Sorry4Nothing/cevi-os"><img src="assets/card-cevi-os.svg" alt="cevi-os" width="100%" /></a><br/>
-      <sub><a href="https://github.com/Sorry4Nothing/cevi-os">API</a> · <a href="https://github.com/Sorry4Nothing/cevi-os-ios">iOS</a> · <a href="https://github.com/Sorry4Nothing/cevi-os-android">Android</a></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Sorry4Nothing/fireresponse-api"><img src="assets/card-fireresponse.svg" alt="fireresponse" width="100%" /></a><br/>
-      <sub><a href="https://github.com/Sorry4Nothing/fireresponse-api">API</a> · <a href="https://github.com/Sorry4Nothing/fireresponse-android">Android</a> · <a href="https://github.com/Sorry4Nothing/fireresponse-ios">iOS</a></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Sorry4Nothing/kurstracker"><img src="assets/card-kurstracker.svg" alt="kurstracker" width="100%" /></a><br/>
-      <sub><a href="https://github.com/Sorry4Nothing/kurstracker">Code</a></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Sorry4Nothing/cevi-os"><img src="assets/card-cevi-os.svg" alt="Cevi OS" width="32.5%" /></a>
+  <a href="https://github.com/Sorry4Nothing/fireresponse-api"><img src="assets/card-fireresponse.svg" alt="FireResponse" width="32.5%" /></a>
+  <a href="https://github.com/Sorry4Nothing/kurstracker"><img src="assets/card-kurstracker.svg" alt="Kurstracker" width="32.5%" /></a>
+</p>
+
+<sub>
+  <b>Cevi OS</b> <a href="https://github.com/Sorry4Nothing/cevi-os">API</a> · <a href="https://github.com/Sorry4Nothing/cevi-os-ios">iOS</a> · <a href="https://github.com/Sorry4Nothing/cevi-os-android">Android</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>FireResponse</b> <a href="https://github.com/Sorry4Nothing/fireresponse-api">API</a> · <a href="https://github.com/Sorry4Nothing/fireresponse-android">Android</a> · <a href="https://github.com/Sorry4Nothing/fireresponse-ios">iOS</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>Kurstracker</b> <a href="https://github.com/Sorry4Nothing/kurstracker">Code</a>
+</sub>
 
 <br/><br/>
 
